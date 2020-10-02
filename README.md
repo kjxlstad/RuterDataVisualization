@@ -7,6 +7,9 @@ All files contain seperate feature engineering and visualizations on the data se
 5. **Top 10 Most Popular Bustops- 5topstops.ipynb**
 
 **s321399** - Jonathan Kjølstad
+
 **s305362** - Sindre Bjerkestrand Haugsvær
+
 **s330492** - Yaslin Dhillon
+
 **s331467** - Vilde Vig Bjune
